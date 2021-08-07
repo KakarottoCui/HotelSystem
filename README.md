@@ -6,5 +6,7 @@
 
 运行环境:jdk8+tomcat8+mysql+Idea+maven
 
+视频演示链接：https://live.csdn.net/v/174746
+
 代码并非完整版，仅供学习参考使用，如需完整版请关注公众号：程序猿DaBo，点击下方菜单栏联系我，承接商业项目和毕设代做
 
